@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>研究僧-喜龙的学习空间</title>
+  
+  <subtitle>河南理工大学-电子信息</subtitle>
+  <link href="https://zxl-206906.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zxl-206906.github.io/"/>
+  <updated>2024-04-08T08:30:40.884Z</updated>
+  <id>https://zxl-206906.github.io/</id>
+  
+  <author>
+    <name>Zhang Xi Long</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zxl-206906.github.io/2024/04/08/hello-world/"/>
+    <id>https://zxl-206906.github.io/2024/04/08/hello-world/</id>
+    <published>2024-04-08T08:30:40.884Z</published>
+    <updated>2024-04-08T08:30:40.884Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
